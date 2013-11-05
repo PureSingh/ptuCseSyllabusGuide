@@ -12,8 +12,8 @@
 		<script src="js/jquery.dropotron.js"></script>
 		<script src="js/skel.min.js"></script>
 		<script src="js/skel-panels.min.js"></script>
-		<script src="js/init.js"></script>	
-		<noscript>
+		<script src="js/init.js"></script>
+       	<noscript>
 			<link rel="stylesheet" href="css/skel-noscript.css" />
 			<link rel="stylesheet" href="css/style.css" />
 			<link rel="stylesheet" href="css/style-desktop.css" />
@@ -57,10 +57,10 @@
 					</div>
 					<div class="row">
 						<h2><center><a href="Semesters/3rd/CA/SamplePapers/cse3 ca Dec 2005.pdf">December <strong>2005</strong></a></center></h2>
-                        <h2><center><a href="#">Sample Paper <strong>2012</strong></a></center></h2>
-                        <h2><center><a href="#">Sample Paper <strong>2013</strong></a></center></h2>
-                        <h2><center><a href="#">Sample Paper <strong>2011</strong></a></center></h2>
-                        <h2><center><a href="#">Sample Paper <strong>2011</strong></a></center></h2>
+                        <h2><center><a href="Semesters/3rd/CA/SamplePapers/cse3 ca dec07.pdf">December <strong>2007</strong></a></center></h2>
+                        <h2><center><a href="Semesters/3rd/CA/SamplePapers/cse3-ca-may08.pdf">May <strong>2008</strong></a></center></h2>
+                        <h2><center><a href="Semesters/3rd/CA/SamplePapers/cs3-ca-dec08.pdf">December <strong>2008</strong></a></center></h2>
+                        <h2><center><a href="Semesters/3rd/CA/SamplePapers/cse3-ca-dec09.pdf">May <strong>2009</strong></a></center></h2>
 					</div>
 				</div>
 
