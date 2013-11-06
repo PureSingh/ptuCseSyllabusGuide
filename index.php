@@ -59,9 +59,9 @@
 				<div class="reel">
 
 					<article>
-						<a href="#" class="image featured"><img src="images/pic01.jpg" alt="" /></a>
+						<a href="3rd-index.php" class="image featured"><img src="images/pic01.jpg" alt="" /></a>
 						<header>
-							<h3><a href="#">3rd Semester </a></h3>
+							<h3><a href="3rd-index.php">3rd Semester </a></h3>
 						</header>
 						<p>To get notes of 3rd Sem Visit this Phase</p>							
 					</article>

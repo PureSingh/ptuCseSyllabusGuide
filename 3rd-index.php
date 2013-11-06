@@ -62,24 +62,24 @@
 							
 						</article>
 						<article class="4u special">
-							<a href="http://mdomaradzki.deviantart.com/art/Home-Bound-Train-II-338912191" class="image featured"><img src="images/pic08.jpg" alt="" /></a>
+							<a href="3rd-dcld.php" class="image featured"><img src="images/dcld.PNG" alt="" /></a>
 							
 							
 						</article>
 						<article class="4u special">
-							<a href="http://mdomaradzki.deviantart.com/art/Up-is-Down-325005102" class="image featured"><img src="images/pic09.jpg" alt="" /></a>
+							<a href="3rd-ds.php" class="image featured"><img src="images/ds.PNG" alt="" /></a>
 							
 							
 						</article>
                         <article class="4u special">
-							<a href="http://mdomaradzki.deviantart.com/art/Bueller-VII-351975126" class="image featured"><img src="images/pic07.jpg" alt="" /></a>
+							<a href="3rd-dspm.php" class="image featured"><img src="images/dspm.PNG" alt="" /></a>
 							
 						</article>
 						<article class="4u special">
-							<a href="http://mdomaradzki.deviantart.com/art/Home-Bound-Train-II-338912191" class="image featured"><img src="images/pic08.jpg" alt="" /></a>
+							<a href="3rd-oops.php" class="image featured"><img src="images/oops.PNG" alt="" /></a>
 													</article>
 						<article class="4u special">
-							<a href="http://mdomaradzki.deviantart.com/art/Up-is-Down-325005102" class="image featured"><img src="images/pic09.jpg" alt="" /></a>
+							<a href="3rd-wotc.php" class="image featured"><img src="images/wotc.PNG" alt="" /></a>
 							
 						</article>
 					</div>
