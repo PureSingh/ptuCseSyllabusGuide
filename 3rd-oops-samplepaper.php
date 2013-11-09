@@ -13,12 +13,11 @@
 		<script src="js/skel.min.js"></script>
 		<script src="js/skel-panels.min.js"></script>
 		<script src="js/init.js"></script>
-		<noscript>
+       	<noscript>
 			<link rel="stylesheet" href="css/skel-noscript.css" />
 			<link rel="stylesheet" href="css/style.css" />
 			<link rel="stylesheet" href="css/style-desktop.css" />
 			<link rel="stylesheet" href="css/style-noscript.css" />
-                   
 		</noscript>
 		<!--[if lte IE 8]><link rel="stylesheet" href="css/ie8.css" /><![endif]-->
 	</head>
@@ -30,7 +29,7 @@
 				<!-- Inner -->
 					<div class="inner">
 						<header>
-							<h1><a href="index.php" id="logo">PTU CSE Syllabus Guide</a> &raquo;<a href="3rd-index.php"> 3rd Sem </a>&raquo; <a href="3rd-ca.php">CA</a></h1>
+							<h1><a href="index.php" id="logo">..</a> &raquo; <a href="3rd-index.php">3rd Sem</a> &raquo; <a href="3rd-wotc.php">WOTC</a> &raquo; <a href="3rd-wotc-samplepaper.php">Sample Papers</a></h1>
 						</header>
 					</div>
 				
@@ -47,9 +46,9 @@
 						<div class="12u skel-cell-mainContent" id="content">
 							<article id="main" class="special">
 								<header>
-									<h2><a href="#">Computer Architecture</a></h2>
+									<h2><a href="#">Written & Oral Technical Comm. &raquo; Sample Papers</a></h2>
 									<span class="byline">
-										"Syllabus"  "Notes"  "Sample Paper"
+										
 									</span>
 								</header>
 								
@@ -57,23 +56,12 @@
 						</div>
 					</div>
 					<div class="row">
-						<article class="4u special">
-							<a href="3rd-ca-syllabus.php" class="image featured"><img src="images/pic09.jpg" alt="" /></a>
-							
-							
-						</article>
-						<article class="4u special">
-							
-                            <a href="3rd-ca-samplepaper.php" class="image featured"><img src="images/pic08.jpg" alt="" /></a>
-							
-							
-						</article>
-						<article class="4u special">
-							<a href="#" class="image featured"><img src="images/notes.png" alt="" /></a>
-							
-							
-						</article>
-                        
+						<h2><center><a href="Semesters/3rd/WOTC/SamplePapers/cse3 wotc May 2004.pdf">May <strong>2004</strong></a></center></h2>
+                        <h2><center><a href="Semesters/3rd/WOTC/SamplePapers/cse3 wotc dec07.pdf">December <strong>2007</strong></a></center></h2>
+                        <h2><center><a href="Semesters/3rd/WOTC/SamplePapers/cse3-wotc-may08.pdf">May <strong>2008</strong></a></center></h2>
+                        <h2><center><a href="Semesters/3rd/WOTC/SamplePapers/cs3-wotc-dec08.pdf">December <strong>2008</strong></a></center></h2>
+                        <h2><center><a href="Semesters/3rd/WOTC/SamplePapers/cse3-wotc-dec09.pdf">May <strong>2009</strong></a></center></h2>
+                        <h2><center><a href="Semesters/3rd/WOTC/SamplePapers/cse3 wotc May 2004.pdf">December<strong>2009</strong></a></center></h2>
 					</div>
 				</div>
 

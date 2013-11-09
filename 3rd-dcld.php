@@ -57,31 +57,21 @@
 					</div>
 					<div class="row">
 						<article class="4u special">
+							<a href="3rd-dcld-syllabus.php" class="image featured"><img src="images/pic09.jpg" alt="" /></a>
+							
+							
+						</article>
+						<article class="4u special">
 							<a href="3rd-dcld-samplepaper.php" class="image featured"><img src="images/pic08.jpg" alt="" /></a>
 							
 							
 						</article>
 						<article class="4u special">
-							<a href="http://mdomaradzki.deviantart.com/art/Home-Bound-Train-II-338912191" class="image featured"><img src="images/pic08.jpg" alt="" /></a>
+							<a href="#" class="image featured"><img src="images/ComingSoon.png" alt="" /></a>
 							
 							
 						</article>
-						<article class="4u special">
-							<a href="http://mdomaradzki.deviantart.com/art/Up-is-Down-325005102" class="image featured"><img src="images/pic09.jpg" alt="" /></a>
-							
-							
-						</article>
-                        <article class="4u special">
-							<a href="http://mdomaradzki.deviantart.com/art/Bueller-VII-351975126" class="image featured"><img src="images/pic07.jpg" alt="" /></a>
-							
-						</article>
-						<article class="4u special">
-							<a href="http://mdomaradzki.deviantart.com/art/Home-Bound-Train-II-338912191" class="image featured"><img src="images/pic08.jpg" alt="" /></a>
-													</article>
-						<article class="4u special">
-							<a href="http://mdomaradzki.deviantart.com/art/Up-is-Down-325005102" class="image featured"><img src="images/pic09.jpg" alt="" /></a>
-							
-						</article>
+                        
 					</div>
 				</div>
 

@@ -18,7 +18,6 @@
 			<link rel="stylesheet" href="css/style.css" />
 			<link rel="stylesheet" href="css/style-desktop.css" />
 			<link rel="stylesheet" href="css/style-noscript.css" />
-                   
 		</noscript>
 		<!--[if lte IE 8]><link rel="stylesheet" href="css/ie8.css" /><![endif]-->
 	</head>
@@ -30,7 +29,7 @@
 				<!-- Inner -->
 					<div class="inner">
 						<header>
-							<h1><a href="index.php" id="logo">PTU CSE Syllabus Guide</a> &raquo;<a href="3rd-index.php"> 3rd Sem </a>&raquo; <a href="3rd-ca.php">CA</a></h1>
+							<h1><a href="index.php" id="logo">PTU CSE Syllabus Guide</a> &raquo;<a href="3rd-index.php"> 3rd Sem </a>&raquo; <a href="3rd-ds.php">DS</a></h1>
 						</header>
 					</div>
 				
@@ -47,7 +46,7 @@
 						<div class="12u skel-cell-mainContent" id="content">
 							<article id="main" class="special">
 								<header>
-									<h2><a href="#">Computer Architecture</a></h2>
+									<h2><a href="#">Discrete Structures</a></h2>
 									<span class="byline">
 										"Syllabus"  "Notes"  "Sample Paper"
 									</span>
@@ -58,18 +57,17 @@
 					</div>
 					<div class="row">
 						<article class="4u special">
-							<a href="3rd-ca-syllabus.php" class="image featured"><img src="images/pic09.jpg" alt="" /></a>
+							<a href="3rd-ds-syllabus.php" class="image featured"><img src="images/pic09.jpg" alt="" /></a>
 							
 							
 						</article>
 						<article class="4u special">
-							
-                            <a href="3rd-ca-samplepaper.php" class="image featured"><img src="images/pic08.jpg" alt="" /></a>
+							<a href="3rd-ds-samplepaper.php" class="image featured"><img src="images/pic08.jpg" alt="" /></a>
 							
 							
 						</article>
 						<article class="4u special">
-							<a href="#" class="image featured"><img src="images/notes.png" alt="" /></a>
+							<a href="#" class="image featured"><img src="images/ComingSoon.png" alt="" /></a>
 							
 							
 						</article>

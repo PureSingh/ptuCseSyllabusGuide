@@ -30,7 +30,7 @@
 				<!-- Inner -->
 					<div class="inner">
 						<header>
-							<h1><a href="index.php" id="logo">..</a> &raquo; <a href="3rd-index.php">3rd Sem</a> &raquo; <a href="3rd-dcld.php">DCLD</a> &raquo; <a href="3rd-dcld-syllabus.php">Syllabus</a></h1>
+							<h1><a href="index.php" id="logo">..</a> &raquo; <a href="3rd-index.php">3rd Sem</a> &raquo; <a href="3rd-ds.php">DCLD</a> &raquo; <a href="3rd-ds-syllabus.php">Syllabus</a></h1>
 						</header>
 					</div>
 				
@@ -50,7 +50,7 @@
 
 <DIV id="id_1">
 
-<P class="p106 ft6"><NOBR>CS-205</NOBR> DIGITAL CIRCUITS & LOGIC DESIGN.</P>
+<P class="p106 ft6"><NOBR>CS-203</NOBR> DISCRETE STRUCTURES.</P>
 <TABLE cellpadding=0 cellspacing=0 class="t8">
 <TR>
 	<TD class="tr1 td185"><P class="p10 ft21">External Marks:</P></TD>
@@ -74,29 +74,26 @@
 	<TD class="tr23 td189"><P class="p10 ft8">&nbsp;</P></TD>
 </TR>
 </TABLE>
-<P class="p97 ft6">PREREQUISITES: <SPAN class="ft5">None</SPAN></P>
-<P class="p97 ft12">OBJECTIVES:</P>
-<P class="p111 ft26">To give students basic ideas regarding digital hardware components at the level of gate and sequential circuits. To treat logic design and making them familiar with the CAD tools in digital system design.</P>
-<P class="p81 ft12">COURSE CONTENTS:</P>
-<P class="p112 ft5">Data and number <NOBR>representation-binary-complement</NOBR> representation <NOBR>BCD-ASCII,</NOBR> ISCII. [15%]</P>
-<P class="p99 ft5">Boolean algebra, logic gates, minimization, use of programs such as expresso in minimization. [5%]</P>
-<P class="p99 ft5">Digital Circuit Technologies, RTL/DTL/DCTL/TTL/MOS/CMOS/ECL, analysis of basic circuits in these families, internal architecture of programmable logic devices. [10%]</P>
-<P class="p97 ft5">Combinational design , design with Muxes. [5%]</P>
-<P class="p83 ft5">Sequential circuits, <NOBR>flip-flops,</NOBR> counters, shift registers, multivibrators, state diagrams, sequential circuit design from state diagrams computer aids in synthesis. [15%]</P>
-<P class="p97 ft5">Memory system - RAM., ROM, EPROM, EEPROM, PAL, PLDs,PGAs. [20%]</P>
-<P class="p113 ft5">Bus structures, transmission line effects, line termination. [10%] A/D and D/A conversion techniques and selected case studies. [15%]</P>
-<P class="p97 ft5">Introduction to VLSI Design , Custom and <NOBR>semi-custom</NOBR> design. [5%]</P>
-<P class="p98 ft6">TEXT /REFERENCES:</P>
-<P class="p97 ft5">Morris Mano, Digital Design- Prentice Hall of India Pvt. Ltd</P>
-<P class="p114 ft26">Jesse H Jenkins,Designing with FPGAs and CPLDs , PTR Prentice Hall, Englewood Cliffs</P>
-<P class="p115 ft26">H.Taub & D. Schilling, Digital Integrated Electronics, McGraw Hill Douglas L. Perry, VHDL, McGraw Hill, Inc., 2nd Edition, 1993.</P>
-<P class="p116 ft26">Mead and L. Conway, Introduction to VLSI Systems, Addition Wesley, 1979. R. Viswanathan , G. K. Meat and V.Rajaraman, "Electronics for Scientist and Engineers". Prentice Hall of India Pvt. Ltd. 1978</P>
-<P class="p117 ft26">J.Millman and Halkias, "Integrated Electronics, Analog and Digital Circuits and Systems, Tata McGraw Hill ,1972.</P>
+<P class="p79 ft6">PREREQUISITES :</P>
+<P class="p97 ft5">Mathematics & Data Structures</P>
+<P class="p98 ft6">OBJECTIVES</P>
+<P class="p99 ft5">The objective of this course is to provide the necessary back ground of discrete structures with particular reference to the relationships between discrete structures and their data structure counterparts including algorithm development.</P>
+<P class="p79 ft6">COURSE CONTENTS:</P>
+<P class="p99 ft5">Graph Theory: Graph- Directed and undirected Eulerian chains and cycles, Hamiltonian chains and cycles Trees, Chromatic number Connectivity and other graphical parameter. Application. [20%]</P>
+<P class="p99 ft5">Combinatorial Mathematics: Basic counting principles Permutations and combinations Inclusion and Exclusion Principle Recurrence relations, Generating Function, Application. [15%]</P>
+<P class="p100 ft5">Sets and functions: Sets and relations functions operations equivalence relations relation of partial order partitions binary relations. [15%]</P>
+<P class="p80 ft26">Monoids and groups: Groups Semigroups and monoids Cyclic semigraphs and submonoids, Subgroups and Cosets. Congruence relations on semigroups. Morphisms. Normal subgroups. Structure of Cyclic groups permutation groups, dihedral groups Elementary applications in coding theory. [20%]</P>
+<P class="p101 ft26">Rings and Boolean algebra : Rings Subrings morphism of rings ideals and quotient rings. Euclidean domains Integral domains and fields Boolean Algebra direct product morphisms Boolean <NOBR>sub-algebra</NOBR> Boolean Rings Application of Boolean algebra in logic circuits and switching functions. [30%]</P>
+<P class="p102 ft21">TEXT BOOKS:</P>
+<P class="p103 ft5"><SPAN class="ft5">1.</SPAN><SPAN class="ft60">Discrete Mathematics (Schaum series) by Lipschutz (Mc Graw Hill)</SPAN></P>
+<P class="p104 ft26"><SPAN class="ft26">2.</SPAN><SPAN class="ft61">Applied Discrete Structures for Computer Science by Alan Doerr and Kenneth Levarseur.</SPAN></P>
+<P class="p6 ft12">REFERENCES:</P>
+<P class="p105 ft5">1. Discrete Mathematics by N Ch S n Lyengar, VM Chandrasekaran</P>
 </DIV>
 <DIV id="id_2">
 
 </DIV>
-</DIV>     
+</DIV>    
 					</div>
 				</div>
 
