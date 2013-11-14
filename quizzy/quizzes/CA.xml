@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quizzes>
+  <quiz>
+    <title>Computer Architecture</title>
+    
+    <grading>
+      <range start="0" end="60">
+        <grade>F</grade>
+        <rank>Rank</rank>
+        
+      </range>
+      ...
+    </grading>
+    <question>
+      <text>For Computer architecture select 2?</text>
+      <option>
+        <text>1</text>
+      </option>
+	  <option>
+        <text>2</text>
+		<score>5</score>
+      </option>
+	  <option>
+        <text>3</text>
+      </option>
+	  <option>
+        <text>4</text>
+      </option>
+      ...
+    </question>
+    ...
+  </quiz>
+  ...
+</quizzes>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quizzes>
+  <quiz>
+    <title>Quiz Name</title>
+    [<img src="foo.jpg" alt="bar" />]
+    <description>
+      <text>Quiz description</text>
+      [<img src="foo.jpg" alt="bar" />]
+    </description>
+    <grading>
+      <range start="0" end="60">
+        <grade>F</grade>
+        <rank>Rank</rank>
+        [<img src="foo.jpg" alt="bar" />]
+      </range>
+      ...
+    </grading>
+    <question>
+      <text>Question Text</text>
+      [<img src="foo.jpg" alt="bar" />]
+      <option>
+        <text>Option Text</text>
+      	[<img src="foo.jpg" alt="bar" />]
+        <score>3</score>
+        <explanation>
+          <text>Explanation text</text>
+      	  [<img src="foo.jpg" alt="bar" />]
+        </explanation>
+      </option>
+      ...
+    </question>
+    ...
+  </quiz>
+  ...
+</quizzes>

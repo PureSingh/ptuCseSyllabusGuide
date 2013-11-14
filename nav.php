@@ -14,8 +14,8 @@
 								</ul>
 							</li>
 							
-							<li><a href="#">About Us</a></li>
-							<li><a href="#">Get in Touch</a></li>
-                            <li><a href="#">Login/Register</a></li>
+							<li><a href="quiz.php">Quiz</a></li>
+							<li><a href="http://localhost/PTU_CSE_SYLLABUS_GUIDE/index.php#About">About Us</a></li>
+                            <li><a href="Users/index.php">User Profile</a></li>
 						</ul>
 					</nav>
