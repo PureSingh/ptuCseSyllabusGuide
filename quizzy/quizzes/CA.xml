@@ -12,19 +12,91 @@
       ...
     </grading>
     <question>
-      <text>For Computer architecture select 2?</text>
+      <text>Select the appropriate CISC processor?</text>
       <option>
-        <text>1</text>
+        <text>Intel 8086</text>
+		<score>10</score>
       </option>
 	  <option>
-        <text>2</text>
-		<score>5</score>
+        <text>ARM</text>		
+      </option>
+	  <option>
+        <text>MIPS</text>
+      </option>
+	  <option>
+        <text>IBM's Power PC</text>
+      </option>
+      ...
+    </question>
+	
+	    <question>
+      <text>What does a compiler do?</text>
+      <option>
+        <text>Compiler program line by line</text>		
+      </option>
+	  <option>
+        <text>Converts program to assembly code</text>		
+		<score>10</score>
+      </option>
+	  <option>
+        <text>Converts low level code to high level code</text>
+      </option>
+	  <option>
+        <text>Does nothing</text>
+      </option>
+      ...
+    </question>
+	
+	<question>
+      <text>What does add r1,r2,r3 means?</text>
+      <option>
+        <text>add r1, r1 and r3</text>		
+      </option>
+	  <option>
+        <text>r1=r2+r3</text>		
+		<score>10</score>
+      </option>
+	  <option>
+        <text>r1=r2-r3</text>
+      </option>
+	  <option>
+        <text>Does nothing</text>
+      </option>
+      ...
+    </question>
+	
+	<question>
+      <text>CPI of pipelined process is?</text>
+      <option>
+        <text>4</text>		
+      </option>
+	  <option>
+        <text>2</text>		
+      </option>
+	  <option>
+        <text>1</text>
+		<score>10</score>
       </option>
 	  <option>
         <text>3</text>
       </option>
+      ...
+    </question>
+	
+	<question>
+      <text>CA stands for?</text>
+      <option>
+        <text>Computer Architecture</text>	
+		<score>10</score>	
+      </option>
 	  <option>
-        <text>4</text>
+        <text>Computer Application</text>		
+      </option>
+	  <option>
+        <text>Computer's Association</text>		
+      </option>
+	  <option>
+        <text>Computer Apps</text>
       </option>
       ...
     </question>
