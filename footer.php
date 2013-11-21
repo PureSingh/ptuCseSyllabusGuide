@@ -67,26 +67,26 @@
 								</header>
 								<div class="row quarter no-collapse">
 									<div class="6u">
-										<a href="#" class="image full"><img src="images/pic10.jpg" alt="" /></a>
+										<a href="3rd-index.php" class="image full"><img src="images/pic10.jpg" alt="" /></a>
 									</div>
 									<div class="6u">
-										<a href="#" class="image full"><img src="images/pic11.jpg" alt="" /></a>
-									</div>
-								</div>
-								<div class="row quarter no-collapse">
-									<div class="6u">
-										<a href="#" class="image full"><img src="images/pic12.jpg" alt="" /></a>
-									</div>
-									<div class="6u">
-										<a href="#" class="image full"><img src="images/pic13.jpg" alt="" /></a>
+										<a href="4th-index.php" class="image full"><img src="images/pic11.jpg" alt="" /></a>
 									</div>
 								</div>
 								<div class="row quarter no-collapse">
 									<div class="6u">
-										<a href="#" class="image full"><img src="images/pic14.jpg" alt="" /></a>
+										<a href="5th-index.php" class="image full"><img src="images/pic12.jpg" alt="" /></a>
 									</div>
 									<div class="6u">
-										<a href="#" class="image full"><img src="images/pic15.jpg" alt="" /></a>
+										<a href="6th-index.php" class="image full"><img src="images/pic13.jpg" alt="" /></a>
+									</div>
+								</div>
+								<div class="row quarter no-collapse">
+									<div class="6u">
+										<a href="7th-index.php" class="image full"><img src="images/pic14.jpg" alt="" /></a>
+									</div>
+									<div class="6u">
+										<a href="7th-index.php" class="image full"><img src="images/pic15.jpg" alt="" /></a>
 									</div>
 								</div>
 							</section>

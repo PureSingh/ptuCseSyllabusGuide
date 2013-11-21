@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <quizzes>
   <quiz>
-    <title>CA (3rd Sem)</title>
+    <title>DCLD (3rd Sem)</title>
     
     <grading>
       <range start="0" end="60">
@@ -12,91 +12,91 @@
       ...
     </grading>
     <question>
-      <text>Select the appropriate CISC processor?</text>
+      <text>Any number with an exponent of zero is equal to?</text>
       <option>
-        <text>Intel 8086</text>
+        <text>one</text>
 		<score>10</score>
       </option>
 	  <option>
-        <text>ARM</text>		
+        <text>zero</text>		
       </option>
 	  <option>
-        <text>MIPS</text>
+        <text>that number</text>
       </option>
 	  <option>
-        <text>IBM's Power PC</text>
+        <text>ten</text>
       </option>
       ...
     </question>
 	
 	    <question>
-      <text>What does a compiler do?</text>
+      <text>Convert 01011 to decimal?</text>
       <option>
-        <text>Compiler program line by line</text>		
+        <text>15</text>		
       </option>
 	  <option>
-        <text>Converts program to assembly code</text>		
+        <text>11</text>		
 		<score>10</score>
       </option>
 	  <option>
-        <text>Converts low level code to high level code</text>
+        <text>12</text>
       </option>
 	  <option>
-        <text>Does nothing</text>
+        <text>13</text>
       </option>
       ...
     </question>
 	
 	<question>
-      <text>What does add r1,r2,r3 means?</text>
+      <text>A logic circuit that provides a HIGH output for both inputs HIGH or both inputs LOW is a(n)?</text>
       <option>
-        <text>add r1, r1 and r3</text>		
+        <text>OR gate</text>		
       </option>
 	  <option>
-        <text>r1=r2+r3</text>		
+        <text>Ex-NOR gate</text>		
 		<score>10</score>
       </option>
 	  <option>
-        <text>r1=r2-r3</text>
+        <text>Ex-OR gate</text>
       </option>
 	  <option>
-        <text>Does nothing</text>
+        <text>NAND gate</text>
       </option>
       ...
     </question>
 	
 	<question>
-      <text>CPI of pipelined process is?</text>
+      <text>How many address bits are needed to select all memory locations in the 2118 16K × 1 RAM?</text>
       <option>
-        <text>4</text>		
+        <text>41</text>		
       </option>
 	  <option>
-        <text>2</text>		
+        <text>12</text>		
       </option>
 	  <option>
-        <text>1</text>
+        <text>14</text>
 		<score>10</score>
       </option>
 	  <option>
-        <text>3</text>
+        <text>10</text>
       </option>
       ...
     </question>
 	
 	<question>
-      <text>CA stands for?</text>
+      <text>DCLD stands for?</text>
       <option>
-        <text>Computer Architecture</text>	
+        <text>Digital Circuit and Logic Design</text>	
 		<score>10</score>	
       </option>
 	  <option>
-        <text>Computer Application</text>		
+        <text>Digi Circuit and design</text>		
       </option>
 	  <option>
-        <text>Computer's Association</text>		
+        <text>Digit Design</text>		
       </option>
 	  <option>
-        <text>Computer Apps</text>
+        <text>DCLD</text>
       </option>
       ...
     </question>

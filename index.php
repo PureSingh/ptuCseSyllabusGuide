@@ -67,93 +67,37 @@
 					</article>
 				
 					<article>
-						<a href="#" class="image featured"><img src="images/pic02.jpg" alt="" /></a>
+						<a href="4th-index.php" class="image featured"><img src="images/pic02.jpg" alt="" /></a>
 						<header>
-							<h3><a href="#">4th Semester </a></h3>
+							<h3><a href="4th-index.php">4th Semester </a></h3>
 						</header>
 						<p>To get notes of 4th Sem Visit this Phase</p>							
 					</article>				
 					
                     <article>
-						<a href="#" class="image featured"><img src="images/pic03.jpg" alt="" /></a>
+						<a href="5th-index.php" class="image featured"><img src="images/pic03.jpg" alt="" /></a>
 						<header>
-							<h3><a href="#">5th Semester </a></h3>
+							<h3><a href="5th-index.php">5th Semester </a></h3>
 						</header>
 						<p>To get notes of 5th Sem Visit this Phase</p>							
 					</article>
 				
 					<article>
-						<a href="#" class="image featured"><img src="images/pic04.jpg" alt="" /></a>
+						<a href="6th-index.php" class="image featured"><img src="images/pic04.jpg" alt="" /></a>
 						<header>
-							<h3><a href="#">6th Semester </a></h3>
+							<h3><a href="6th-index.php">6th Semester </a></h3>
 						</header>
 						<p>To get notes of 6th Sem Visit this Phase</p>							
 					</article>
                     
 					<article>
-						<a href="#" class="image featured"><img src="images/pic05.jpg" alt="" /></a>
+						<a href="7th-index.php" class="image featured"><img src="images/pic05.jpg" alt="" /></a>
 						<header>
-							<h3><a href="#">7th Semester </a></h3>
+							<h3><a href="7th-index.php">7th Semester </a></h3>
 						</header>
 						<p>To get notes of 7th Sem Visit this Phase</p>							
 					</article>
-					
-                    <article>
-						<a href="#" class="image featured"><img src="images/pic06.jpg" alt="" /></a>
-						<header>
-							<h3><a href="#">8th Semester </a></h3>
-						</header>
-						<p>To get notes of 8th Sem Visit this Phase</p>							
-					</article>
-					
-                    <article>
-						<a href="#" class="image featured"><img src="images/pic01.jpg" alt="" /></a>
-						<header>
-							<h3><a href="#">3rd Semester </a></h3>
-						</header>
-						<p>To get notes of 3rd Sem Visit this Phase</p>							
-					</article>
-				
-					<article>
-						<a href="#" class="image featured"><img src="images/pic02.jpg" alt="" /></a>
-						<header>
-							<h3><a href="#">4th Semester </a></h3>
-						</header>
-						<p>To get notes of 4th Sem Visit this Phase</p>							
-					</article>				
-					
-                    <article>
-						<a href="#" class="image featured"><img src="images/pic03.jpg" alt="" /></a>
-						<header>
-							<h3><a href="#">5th Semester </a></h3>
-						</header>
-						<p>To get notes of 5th Sem Visit this Phase</p>							
-					</article>
-				
-					<article>
-						<a href="#" class="image featured"><img src="images/pic04.jpg" alt="" /></a>
-						<header>
-							<h3><a href="#">6th Semester </a></h3>
-						</header>
-						<p>To get notes of 6th Sem Visit this Phase</p>							
-					</article>
-                    
-					<article>
-						<a href="#" class="image featured"><img src="images/pic05.jpg" alt="" /></a>
-						<header>
-							<h3><a href="#">7th Semester </a></h3>
-						</header>
-						<p>To get notes of 7th Sem Visit this Phase</p>							
-					</article>
-					
-                    <article>
-						<a href="#" class="image featured"><img src="images/pic06.jpg" alt="" /></a>
-						<header>
-							<h3><a href="#">8th Semester </a></h3>
-						</header>
-						<p>To get notes of 8th Sem Visit this Phase</p>							
-					</article>
-					
+										
 				</div>
 			</div>
 			
