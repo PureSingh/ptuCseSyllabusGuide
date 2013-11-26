@@ -110,19 +110,31 @@
                     <br> <div id="About"></div>
 						<h2><a href="#">Who We Are???????</a></h2>
 						<span class="byline">
-							Dummty Text
-						</span>
+							Students Like You
+					  </span>
 					</header>
 					<p>
 						
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+We are a team of two from Guru Nank Dev Engineering College, Ludhiana. The names of the team members are Er Baljeet Singh(comp. engg.) and Er Jaswant Singh(comp. engg.). Jaswant is a web designer cum web developer. Baljeet is web prorammer cum hybrid app developer. This project didn't come as a surprise to our mind, but it did came out of the need. We were struggling to find the related material for our study. So we decided to create an application that will contain the syllabus, notes and study related quiz & in the process will help the students like us. Thus, we hope the coming ptu cse students will get benefit from this project.
+<br/>
+<p><h1 style="font-size:24px"><b>Contact Details:-</b></h1></p>
 
-It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).
+<p><b>Baljeet Singh:</b> <i>Computer Engineer, </i> <i>Web Programmer, </i><i>Hybrid App Developer, </i><i>Software Engineer</i> </p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="mailto:bsinghs.007@gmail.com">bsinghs.007@gmail.com</a>, </i> <i>+91-8591854049. </i></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>FaceBook </i> <i>Twitter </i><i>Linkedin </i><i>Github </i></p>
 
-					</p>
-					<!--<footer>
+
+<p><b>Jaswant Singh:</b> <i>Computer Engineer, </i> <i>Web Designer, </i><i>Web Developer, </i><i>Software Engineer</i> </p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="mailto:jaswanttaur0092@gmail.com">jaswanttaur0092@gmail.com</a>, </i> <i>+91-9646863063. </i></p>
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>FaceBook </i> <i>Twitter </i><i>Linkedin </i><i>Github </i></p>
+
+
+
+</p>
+					<p><!--<footer>
 						<a href="#" class="button">Continue Reading</a>
-					</footer>-->
+					</footer>-->				</p>
 				</article>
 
 			</div>
@@ -133,34 +145,34 @@ It is a long established fact that a reader will be distracted by the readable c
 				<section id="features" class="container special">
 					<header>
 						<h2>Different Phases of PTU CSE Syllabus Guide</h2>
-						<span class="byline">Containing Tutorials, Sample Papers, Syllabus.</span>
+						<span class="byline">Containing Semesters, Quiz, UserProfile.</span>
 					</header>
 					<div class="row">
 						<article class="4u special">
-							<a href="#" class="image featured"><img src="images/pic07.jpg" alt="" /></a>
+							<a href="http://localhost/PTU_CSE_SYLLABUS_GUIDE/semesters.php" class="image featured"><img src="images/semesters.jpg" alt="" /></a>
 							<header>
-								<h3><a href="#">Subjects Tutorials</a></h3>
+								<h3><a href="http://localhost/PTU_CSE_SYLLABUS_GUIDE/semesters.php">Semesters</a></h3>
 							</header>
 							<p>
-								Containing notes of different subjets as simple as easy to understand.
+								Containing syllabus, notes of different subjets as simple as easy to understand.
 							</p>
 						</article>
 						<article class="4u special">
-							<a href="#" class="image featured"><img src="images/pic08.jpg" alt="" /></a>
+							<a href="http://localhost/PTU_CSE_SYLLABUS_GUIDE/quiz.php" class="image featured"><img src="images/quiz.jpg" alt="" /></a>
 							<header>
-								<h3><a href="#">Question Bank</a></h3>
+								<h3><a href="http://localhost/PTU_CSE_SYLLABUS_GUIDE/quiz.php">Quiz</a></h3>
 							</header>
 							<p>
-								Containing previous year question papaer that will guide you.
+								Containing Quiz for different subjects from semesters.
 							</p>
 						</article>
 						<article class="4u special">
-							<a href="#" class="image featured"><img src="images/pic09.jpg" alt="" /></a>
+							<a href="http://localhost/PTU_CSE_SYLLABUS_GUIDE/Users/index.php" class="image featured"><img src="images/userProfile.jpg" alt="" /></a>
 							<header>
-								<h3><a href="#">Syllabus of different subjects</a></h3>
+								<h3><a href="http://localhost/PTU_CSE_SYLLABUS_GUIDE/Users/index.php">User Profile</a></h3>
 							</header>
 							<p>
-								Containing syllabus of all the subjects related to Computer Stream.
+								Containing all the functions that user can perform after login.
 							</p>
 						</article>
 					</div>
