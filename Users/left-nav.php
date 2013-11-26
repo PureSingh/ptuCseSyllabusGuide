@@ -9,6 +9,7 @@ if(isUserLoggedIn()) {
 	<ul>
 	<li><a href='file_upload.php'>File Upload</a></li>
 	<li><a href='uploaded_files.php'>All Uploaded Files</a></li>
+	<li><a href='contact.php'>Contact Form</a></li>
 	<li><a href='user_settings.php'>User Settings</a></li>
 	<li><a href='logout.php'>Logout</a></li>
 	</ul>";

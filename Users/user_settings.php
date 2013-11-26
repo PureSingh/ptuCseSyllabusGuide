@@ -1,4 +1,13 @@
-<?php
+<style>
+	body {background: #f7f7f7; font: 100%/1.375 georgia, serif; }
+	div {margin-bottom: 10px;}
+	.content {width: 100%; margin: 0 auto;}
+	h1 {margin: 0 0 20px 0; font-size: 175%; font-family: calibri, arial, sans-serif;}
+	label {margin-bottom: 2px;}
+	input[type="text"], input[type="email"], textarea {font-size: 0.75em; width: 20%; font-family: arial; border: 1px solid #ebebeb; padding: 4px; display: block;}
+	input[type="radio"] {margin: 0 5px 0 0;}
+	textarea {overflow: auto;}
+</style><?php
 /* PTU_CSE_SYLLABUS_GUIDE */
 
 require_once("models/config.php");
@@ -124,7 +133,7 @@ echo "
 <input type='password' name='password' />
 </p>
 <p>
-<label>Email:</label>
+<label>Email Address:</label>
 <input type='text' name='email' value='".$loggedInUser->email."' />
 </p>
 <p>
