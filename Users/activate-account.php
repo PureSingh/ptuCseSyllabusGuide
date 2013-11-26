@@ -1,6 +1,6 @@
 <?php 
 /*
-PTU_CSE_SYLLABUS_GUIDE Version: 2.0.1
+ptuCseSyllabusGuide Version: 2.0.1
 http://usercake.com
 */
 require_once("models/config.php");
@@ -43,7 +43,7 @@ echo "
 <div id='wrapper'>
 <div id='top'><div id='logo'></div></div>
 <div id='content'>
-<h1>PTU_CSE_SYLLABUS_GUIDE</h1>
+<h1>ptuCseSyllabusGuide</h1>
 <h2>Activate Account</h2>
 
 <div id='left-nav'>";

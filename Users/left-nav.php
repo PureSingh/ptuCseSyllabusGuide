@@ -1,5 +1,5 @@
 <?php
-/* PTU_CSE_SYLLABUS_GUIDE */
+/* ptuCseSyllabusGuide */
 
 if (!securePage($_SERVER['PHP_SELF'])){die();}
 

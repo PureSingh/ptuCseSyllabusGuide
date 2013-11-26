@@ -3,7 +3,7 @@
 -- http://www.phpmyadmin.net
 --
 -- Host: 127.0.0.1
--- Generation Time: Nov 14, 2013 at 09:31 AM
+-- Generation Time: Nov 26, 2013 at 05:38 AM
 -- Server version: 5.5.27
 -- PHP Version: 5.4.7
 
@@ -38,8 +38,8 @@ CREATE TABLE IF NOT EXISTS `uc_configuration` (
 --
 
 INSERT INTO `uc_configuration` (`id`, `name`, `value`) VALUES
-(1, 'website_name', 'PTU_CSE_SYLLABUS_GUIDE'),
-(2, 'website_url', 'http://localhost/PTU_CSE_SYLLABUS_GUIDE/'),
+(1, 'website_name', 'ptuCseSyllabusGuide'),
+(2, 'website_url', 'http://localhost/ptuCseSyllabusGuide/'),
 (3, 'email', 'bsinghs.007@gmail.com'),
 (4, 'activation', 'false'),
 (5, 'resend_activation_threshold', '0'),
@@ -153,14 +153,15 @@ CREATE TABLE IF NOT EXISTS `uc_users` (
   `sign_up_stamp` int(11) NOT NULL,
   `last_sign_in_stamp` int(11) NOT NULL,
   PRIMARY KEY (`id`)
-) ENGINE=InnoDB  DEFAULT CHARSET=utf8 AUTO_INCREMENT=2 ;
+) ENGINE=InnoDB  DEFAULT CHARSET=utf8 AUTO_INCREMENT=3 ;
 
 --
 -- Dumping data for table `uc_users`
 --
 
 INSERT INTO `uc_users` (`id`, `user_name`, `display_name`, `password`, `email`, `activation_token`, `last_activation_request`, `lost_password_request`, `active`, `title`, `sign_up_stamp`, `last_sign_in_stamp`) VALUES
-(1, 'sandhus', 'sandhu', '4058321d29d615c8dfe00bcae65a9fdc1cb6aa509dd8ae46f3bd22560914c1105', 'bsinghs.007@gmail.com', '146309436481440b0d3f3188a0d59d13', 1384437552, 0, 1, 'New Member', 1384437552, 1384449578);
+(1, 'sandhus', 'sandhu', '4058321d29d615c8dfe00bcae65a9fdc1cb6aa509dd8ae46f3bd22560914c1105', 'bsinghs.007@gmail.com', '146309436481440b0d3f3188a0d59d13', 1384437552, 0, 1, 'New Member', 1384437552, 1385471865),
+(2, 'hello', 'hello', 'a1ab4f0ff4dfceeae5f37d0f628eb6c7421cd24ad43e2d80b007ec27aedaabd18', 'hello@gmail.com', 'e3b7cc67fb9f3b18e7162fa7a837d154', 1385286879, 0, 1, 'New Member', 1385286879, 1385443194);
 
 -- --------------------------------------------------------
 
@@ -173,7 +174,7 @@ CREATE TABLE IF NOT EXISTS `uc_user_permission_matches` (
   `user_id` int(11) NOT NULL,
   `permission_id` int(11) NOT NULL,
   PRIMARY KEY (`id`)
-) ENGINE=InnoDB  DEFAULT CHARSET=utf8 AUTO_INCREMENT=3 ;
+) ENGINE=InnoDB  DEFAULT CHARSET=utf8 AUTO_INCREMENT=4 ;
 
 --
 -- Dumping data for table `uc_user_permission_matches`
@@ -181,7 +182,8 @@ CREATE TABLE IF NOT EXISTS `uc_user_permission_matches` (
 
 INSERT INTO `uc_user_permission_matches` (`id`, `user_id`, `permission_id`) VALUES
 (1, 1, 2),
-(2, 1, 1);
+(2, 1, 1),
+(3, 2, 1);
 
 -- --------------------------------------------------------
 

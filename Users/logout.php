@@ -1,5 +1,5 @@
 <?php
-/* PTU_CSE_SYLLABUS_GUIDE */
+/* ptuCseSyllabusGuide */
 
 require_once("models/config.php");
 if (!securePage($_SERVER['PHP_SELF'])){die();}

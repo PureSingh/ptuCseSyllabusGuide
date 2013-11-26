@@ -1,5 +1,5 @@
 <?php
-/* PTU_CSE_SYLLABUS_GUIDE */
+/* ptuCseSyllabusGuide */
 
 require_once("models/config.php");
 if (!securePage($_SERVER['PHP_SELF'])){die();}
@@ -78,13 +78,13 @@ if(!empty($_POST))
 }
 
 require_once("models/header.php");
-
+$url = "http://localhost/ptuCseSyllabusGuide/";
 echo "
 <body>
 <div id='wrapper'>
 <div id='top'><div id='logo'></div></div>
 <div id='content'>
-<h1>PTU_CSE_SYLLABUS_GUIDE</h1>
+<h1><a href=$url>ptuCseSyllabusGuide</a></h1>
 <h2>Login</h2>
 <div id='left-nav'>";
 

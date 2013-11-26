@@ -1,5 +1,5 @@
 <?php
-/* PTU_CSE_SYLLABUS_GUIDE */
+/* ptuCseSyllabusGuide */
 
 require_once("models/config.php");
 if (!securePage($_SERVER['PHP_SELF'])){die();}
@@ -19,13 +19,13 @@ if(!empty($_POST))
 $userData = fetchAllUsers(); //Fetch information for all users
 
 require_once("models/header.php");
-$url = "http://localhost/PTU_CSE_SYLLABUS_GUIDE/";
+$url = "http://localhost/ptuCseSyllabusGuide/";
 echo "
 <body>
 <div id='wrapper'>
 <div id='top'><div id='logo'></div></div>
 <div id='content'>
-<h1><a href=$url>PTU_CSE_SYLLABUS_GUIDE</a></h1>
+<h1><a href=$url>ptuCseSyllabusGuide</a></h1>
 <h2>Admin Users</h2>
 <div id='left-nav'>";
 

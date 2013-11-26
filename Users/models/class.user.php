@@ -1,5 +1,5 @@
 <?php
-/* PTU_CSE_SYLLABUS_GUIDE */
+/* ptuCseSyllabusGuide */
 
 class loggedInUser {
 	public $email = NULL;

@@ -45,32 +45,32 @@
 					
 					<div class="row">
 						<article class="4u special">
-							<a href="http://localhost/PTU_CSE_SYLLABUS_GUIDE/3rd-index.php" class="image featured"><img src="images/pic01.jpg" alt="" /></a>
+							<a href="http://localhost/ptuCseSyllabusGuide/3rd-index.php" class="image featured"><img src="images/pic01.jpg" alt="" /></a>
 							
 							
 						</article>
                         <article class="4u special">
-							<a href="http://localhost/PTU_CSE_SYLLABUS_GUIDE/4th-index.php" class="image featured"><img src="images/pic02.jpg" alt="" /></a>
+							<a href="http://localhost/ptuCseSyllabusGuide/4th-index.php" class="image featured"><img src="images/pic02.jpg" alt="" /></a>
 							
 							
 						</article>
                         <article class="4u special">
-							<a href="http://localhost/PTU_CSE_SYLLABUS_GUIDE/5th-index.php" class="image featured"><img src="images/pic03.jpg" alt="" /></a>
+							<a href="http://localhost/ptuCseSyllabusGuide/5th-index.php" class="image featured"><img src="images/pic03.jpg" alt="" /></a>
 							
 							
 						</article>
                         <article class="4u special">
-							<a href="http://localhost/PTU_CSE_SYLLABUS_GUIDE/6th-index.php" class="image featured"><img src="images/pic04.jpg" alt="" /></a>
+							<a href="http://localhost/ptuCseSyllabusGuide/6th-index.php" class="image featured"><img src="images/pic04.jpg" alt="" /></a>
 							
 							
 						</article>
 						<article class="4u special">
-							<a href="http://localhost/PTU_CSE_SYLLABUS_GUIDE/7th-index.php" class="image featured"><img src="images/pic05.jpg" alt="" /></a>
+							<a href="http://localhost/ptuCseSyllabusGuide/7th-index.php" class="image featured"><img src="images/pic05.jpg" alt="" /></a>
 							
 							
 						</article>
 						<article class="4u special">
-							<a href="http://localhost/PTU_CSE_SYLLABUS_GUIDE/7th-index.php" class="image featured"><img src="images/pic06.jpg" alt="" /></a>
+							<a href="http://localhost/ptuCseSyllabusGuide/7th-index.php" class="image featured"><img src="images/pic06.jpg" alt="" /></a>
 							
 							
 						</article>

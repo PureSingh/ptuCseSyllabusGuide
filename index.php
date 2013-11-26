@@ -149,27 +149,27 @@ We are a team of two from Guru Nank Dev Engineering College, Ludhiana. The names
 					</header>
 					<div class="row">
 						<article class="4u special">
-							<a href="http://localhost/PTU_CSE_SYLLABUS_GUIDE/semesters.php" class="image featured"><img src="images/semesters.jpg" alt="" /></a>
+							<a href="http://localhost/ptuCseSyllabusGuide/semesters.php" class="image featured"><img src="images/semesters.jpg" alt="" /></a>
 							<header>
-								<h3><a href="http://localhost/PTU_CSE_SYLLABUS_GUIDE/semesters.php">Semesters</a></h3>
+								<h3><a href="http://localhost/ptuCseSyllabusGuide/semesters.php">Semesters</a></h3>
 							</header>
 							<p>
 								Containing syllabus, notes of different subjets as simple as easy to understand.
 							</p>
 						</article>
 						<article class="4u special">
-							<a href="http://localhost/PTU_CSE_SYLLABUS_GUIDE/quiz.php" class="image featured"><img src="images/quiz.jpg" alt="" /></a>
+							<a href="http://localhost/ptuCseSyllabusGuide/quiz.php" class="image featured"><img src="images/quiz.jpg" alt="" /></a>
 							<header>
-								<h3><a href="http://localhost/PTU_CSE_SYLLABUS_GUIDE/quiz.php">Quiz</a></h3>
+								<h3><a href="http://localhost/ptuCseSyllabusGuide/quiz.php">Quiz</a></h3>
 							</header>
 							<p>
 								Containing Quiz for different subjects from semesters.
 							</p>
 						</article>
 						<article class="4u special">
-							<a href="http://localhost/PTU_CSE_SYLLABUS_GUIDE/Users/index.php" class="image featured"><img src="images/userProfile.jpg" alt="" /></a>
+							<a href="http://localhost/ptuCseSyllabusGuide/Users/index.php" class="image featured"><img src="images/userProfile.jpg" alt="" /></a>
 							<header>
-								<h3><a href="http://localhost/PTU_CSE_SYLLABUS_GUIDE/Users/index.php">User Profile</a></h3>
+								<h3><a href="http://localhost/ptuCseSyllabusGuide/Users/index.php">User Profile</a></h3>
 							</header>
 							<p>
 								Containing all the functions that user can perform after login.

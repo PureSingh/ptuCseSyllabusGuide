@@ -14,7 +14,7 @@
 							</li>
 							
 							<li><a href="quiz.php">Quiz</a></li>
-							<li><a href="http://localhost/PTU_CSE_SYLLABUS_GUIDE/index.php#About">About Us</a></li>
+							<li><a href="http://localhost/ptuCseSyllabusGuide//index.php#About">About Us</a></li>
                             <li><a href="Users/index.php">User Profile</a></li>
 						</ul>
 					</nav>

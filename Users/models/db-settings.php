@@ -1,5 +1,5 @@
 <?php
-/* PTU_CSE_SYLLABUS_GUIDE */
+/* ptuCseSyllabusGuide */
 
 //Database Information
 $db_host = "localhost"; //Host address (most likely localhost)

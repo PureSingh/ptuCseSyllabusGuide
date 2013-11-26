@@ -1,8 +1,8 @@
 <?php
-/* PTU_CSE_SYLLABUS_GUIDE */
+/* ptuCseSyllabusGuide */
 
 class userCakeMail {
-	//PTU_CSE_SYLLABUS_GUIDE uses a text based system with hooks to replace various strs in txt email templates
+	//ptuCseSyllabusGuide uses a text based system with hooks to replace various strs in txt email templates
 	public $contents = NULL;
 	
 	//Function used for replacing hooks in our templates

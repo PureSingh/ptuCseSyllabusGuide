@@ -1,5 +1,5 @@
 <?php
-/* PTU_CSE_SYLLABUS_GUIDE */
+/* ptuCseSyllabusGuide */
 
 /*
 %m1% - Dymamic markers which are replaced at run time by the relevant index.

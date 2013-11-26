@@ -8,7 +8,7 @@
 	input[type="radio"] {margin: 0 5px 0 0;}
 	textarea {overflow: auto;}
 </style><?php
-/* PTU_CSE_SYLLABUS_GUIDE */
+/* ptuCseSyllabusGuide */
 
 require_once("models/config.php");
 if (!securePage($_SERVER['PHP_SELF'])){die();}
@@ -108,13 +108,13 @@ if(!empty($_POST))
 }
 
 require_once("models/header.php");
-$url = "http://localhost/PTU_CSE_SYLLABUS_GUIDE/";
+$url = "http://localhost/ptuCseSyllabusGuide/";
 echo "
 <body>
 <div id='wrapper'>
 <div id='top'><div id='logo'></div></div>
 <div id='content'>
-<h1><a href=$url>PTU_CSE_SYLLABUS_GUIDE</a></h1>
+<h1><a href=$url>ptuCseSyllabusGuide</a></h1>
 <h2>User Settings</h2>
 <div id='left-nav'>";
 include("left-nav.php");

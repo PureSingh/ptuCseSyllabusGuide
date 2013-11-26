@@ -1,5 +1,5 @@
 <?php
-/* PTU_CSE_SYLLABUS_GUIDE */
+/* ptuCseSyllabusGuide */
 
 require_once("models/config.php");
 if (!securePage($_SERVER['PHP_SELF'])){die();}
@@ -144,7 +144,7 @@ echo "
 <div id='wrapper'>
 <div id='top'><div id='logo'></div></div>
 <div id='content'>
-<h1>PTU_CSE_SYLLABUS_GUIDE</h1>
+<h1>ptuCseSyllabusGuide</h1>
 <h2>Admin User</h2>
 <div id='left-nav'>";
 

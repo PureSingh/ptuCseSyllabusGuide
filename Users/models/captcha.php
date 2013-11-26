@@ -1,5 +1,5 @@
 <?php
-/* PTU_CSE_SYLLABUS_GUIDE */
+/* ptuCseSyllabusGuide */
 session_start();
 $md5_hash = md5(rand(0,99999)); 
 $security_code = substr($md5_hash, 25, 5); 
