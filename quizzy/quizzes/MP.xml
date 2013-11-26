@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quizzes>
+  <quiz>
+    <title>MP(4rd Sem)</title>
+    
+    <grading>
+      <range start="0" end="60">
+        <grade>F</grade>
+        <rank>Rank</rank>
+        
+      </range>
+      ...
+    </grading>
+    <question>
+      <text>The devices that provide the means for a computer to communicate with the user or other computers are referred to as:</text>
+      <option>
+        <text>CPU</text>
+      </option>
+	  <option>
+        <text>ALU</text>		
+      </option>
+	  <option>
+        <text>MPU</text>
+      </option>
+	  <option>
+        <text>I/O</text>		
+		<score>10</score>
+      </option>
+      ...
+    </question>
+	
+	    <question>
+      <text>The software used to drive microprocessor-based systems is called:</text>
+      <option>
+        <text>firmware</text>		
+      </option>
+	  <option>
+        <text>Assembly language</text>		
+		<score>10</score>
+      </option>
+	  <option>
+        <text>machine language code</text>
+      </option>
+	  <option>
+        <text>BASIC interpreter instructions</text>
+      </option>
+      ...
+    </question>
+	
+	<question>
+      <text>The circuits in the 8085A that provide the arithmetic and logic functions are called the:</text>
+      <option>
+        <text>CPU</text>		
+      </option>
+	  <option>
+        <text>ALU</text>		
+		<score>10</score>
+      </option>
+	  <option>
+        <text>I/O</text>
+      </option>
+	  <option>
+        <text>None of these</text>
+      </option>
+      ...
+    </question>
+	
+	<question>
+      <text>How many buses are connected as part of the 8085A microprocessor?</text>
+      <option>
+        <text>2</text>		
+      </option>
+	  <option>
+        <text>5</text>		
+      </option>
+	  <option>
+        <text>3</text>
+		<score>10</score>
+      </option>
+	  <option>
+        <text>8</text>
+      </option>
+      ...
+    </question>
+	
+	<question>
+      <text>The ________ ensures that only one IC is active at a time to avoid a bus conflict caused by two ICs writing different data to the same bus:</text>
+      <option>
+        <text>adress decoder</text>	
+		<score>10</score>	
+      </option>
+	  <option>
+        <text>control bus</text>		
+      </option>
+	  <option>
+        <text>control instructions</text>		
+      </option>
+	  <option>
+        <text>CPU</text>
+      </option>
+      ...
+    </question>
+    ...
+  </quiz>
+  ...  
+</quizzes>

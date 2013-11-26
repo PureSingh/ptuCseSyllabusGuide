@@ -47,7 +47,8 @@ echo "
  
  //Outputs the image and other data
  Echo "<a href=http://localhost/PTU_CSE_SYLLABUS_GUIDE/Users/junk/".$info['file'] .">Uploaded File</a> <br>"; 
- Echo "<b>Description:</b> ".$info['description'] . " <br> <br> <hr> <br>"; 
+ Echo "<b>Description:</b> ".$info['description'] . " <br> "; 
+ Echo "<b>Username:</b> ".$info['username'] . " <br> <br> <hr> <br>"; 
  
  }
  ?> 

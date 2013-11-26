@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quizzes>
+  <quiz>
+    <title>CG(5th Sem)</title>
+    
+    <grading>
+      <range start="0" end="60">
+        <grade>F</grade>
+        <rank>Rank</rank>
+        
+      </range>
+      ...
+    </grading>
+    <question>
+      <text>Interactive computer graphics uses various kind of input devices such as</text>
+      <option>
+        <text>Mouse</text>
+      </option>
+	  <option>
+        <text>Graphics</text>		
+      </option>
+	  <option>
+        <text>Joystick</text>
+      </option>
+	  <option>
+        <text>All of Above</text>		
+		<score>10</score>
+      </option>
+      ...
+    </question>
+	
+	    <question>
+      <text>Input function are used for</text>
+      <option>
+        <text>Control the data flow from these interactive devices</text>		
+      </option>
+	  <option>
+        <text>Process the data flow from these interactive devices</text>		
+      </option>
+	  <option>
+        <text>Both a, b</text>
+		<score>10</score>
+      </option>
+	  <option>
+        <text>None of these</text>
+      </option>
+      ...
+    </question>
+	
+	<question>
+      <text>The interactive computer graphics involves________ way communication b/w computer and the user</text>
+      <option>
+        <text>One</text>		
+      </option>
+	  <option>
+        <text>Two</text>		
+		<score>10</score>
+      </option>
+	  <option>
+        <text>Three</text>
+      </option>
+	  <option>
+        <text>Four</text>
+      </option>
+      ...
+    </question>
+	
+	<question>
+      <text>Interactive computer graphics enables a user to customize the graphics in _______</text>
+      <option>
+        <text>assembler</text>		
+      </option>
+	  <option>
+        <text>Interactive graphics</text>	
+	    <score>10</score>		
+      </option>
+	  <option>
+        <text>Both a, b</text>
+      </option>
+	  <option>
+        <text>None of these</text>
+      </option>
+      ...
+    </question>
+	
+	<question>
+      <text>CAD means</text>
+      <option>
+        <text>Computer Aided Design</text>	
+		<score>10</score>	
+      </option>
+	  <option>
+        <text>Car aided design</text>		
+      </option>
+	  <option>
+        <text>Computer Art Design</text>		
+      </option>
+	  <option>
+        <text>None of these</text>
+      </option>
+      ...
+    </question>
+    ...
+  </quiz>
+  ...  
+</quizzes>

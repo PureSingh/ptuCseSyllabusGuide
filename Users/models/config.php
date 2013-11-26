@@ -2,6 +2,8 @@
 /* PTU_CSE_SYLLABUS_GUIDE */
 require_once("db-settings.php"); //Require DB connection
 
+
+
 //Retrieve settings
 $stmt = $mysqli->prepare("SELECT id, name, value
 	FROM ".$db_table_prefix."configuration");	

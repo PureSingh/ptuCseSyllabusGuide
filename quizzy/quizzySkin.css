@@ -31,7 +31,7 @@
 
 /*pick quiz screen*/
 #quizzy_load {
-  overflow: hidden;
+  overflow: scroll;
 }
 
 #quizzy_load h1 {

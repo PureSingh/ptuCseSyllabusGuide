@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quizzes>
+  <quiz>
+    <title>SLLP (7th Sem)</title>
+    
+    <grading>
+      <range start="0" end="60">
+        <grade>F</grade>
+        <rank>Rank</rank>
+        
+      </range>
+      ...
+    </grading>
+    <question>
+      <text>Prolog is:</text>
+      <option>
+        <text>Procedural</text>
+      </option>
+	  <option>
+        <text>Declarative</text>
+		<score>10</score>		
+      </option>
+	  <option>
+        <text>Object Oriented</text>
+      </option>
+	  <option>
+        <text>None of these</text>			
+      </option>
+      ...
+    </question>
+	
+	    <question>
+      <text>Smallest unit in prolog is:</text>
+      <option>
+        <text>atom</text>		
+      </option>
+	  <option>
+        <text>token</text>		
+		<score>10</score>
+      </option>
+	  <option>
+        <text>predicate</text>
+      </option>
+	  <option>
+        <text>fact</text>
+      </option>
+      ...
+    </question>
+	
+	<question>
+      <text>How many types of data are?</text>
+      <option>
+        <text>1</text>		
+      </option>
+	  <option>
+        <text>2</text>		
+		<score>10</score>
+      </option>
+	  <option>
+        <text>3</text>
+      </option>
+	  <option>
+        <text>4</text>
+      </option>
+      ...
+    </question>
+	
+	<question>
+      <text>The types of  data are?</text>
+      <option>
+        <text>Qualitative</text>		
+      </option>
+	  <option>
+        <text>Quantitative</text>		
+      </option>
+	  <option>
+        <text>Both a, b</text>
+		<score>10</score>
+      </option>
+	  <option>
+        <text>None of these</text>
+      </option>
+      ...
+    </question>
+	
+	<question>
+      <text>Data are taken as ________ level of abstraction?</text>
+      <option>
+        <text>Lowest</text>	
+		<score>10</score>	
+      </option>
+	  <option>
+        <text>Middle</text>		
+      </option>
+	  <option>
+        <text>highest</text>		
+      </option>
+	  <option>
+        <text>None of these</text>
+      </option>
+      ...
+    </question>
+    ...
+  </quiz>
+  ...  
+</quizzes>

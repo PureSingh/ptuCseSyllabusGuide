@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quizzes>
+  <quiz>
+    <title>CPI (5th Sem)</title>
+    
+    <grading>
+      <range start="0" end="60">
+        <grade>F</grade>
+        <rank>Rank</rank>
+        
+      </range>
+      ...
+    </grading>
+    <question>
+      <text>From what location are the 1st computer instructions available on boot up?</text>
+      <option>
+        <text>CPU</text>
+      </option>
+	  <option>
+        <text>boot.ini</text>		
+      </option>
+	  <option>
+        <text>Config.sys</text>
+      </option>
+	  <option>
+        <text>ROM BIOS</text>		
+		<score>10</score>
+      </option>
+      ...
+    </question>
+	
+	    <question>
+      <text>The word ‘Data’ is derived from?</text>
+      <option>
+        <text>Contextual</text>		
+      </option>
+	  <option>
+        <text>Latin</text>		
+		<score>10</score>
+      </option>
+	  <option>
+        <text>DB</text>
+      </option>
+	  <option>
+        <text>None of these</text>
+      </option>
+      ...
+    </question>
+	
+	<question>
+      <text>How many types of data are?</text>
+      <option>
+        <text>1</text>		
+      </option>
+	  <option>
+        <text>2</text>		
+		<score>10</score>
+      </option>
+	  <option>
+        <text>3</text>
+      </option>
+	  <option>
+        <text>4</text>
+      </option>
+      ...
+    </question>
+	
+	<question>
+      <text>The types of  data are?</text>
+      <option>
+        <text>Qualitative</text>		
+      </option>
+	  <option>
+        <text>Quantitative</text>		
+      </option>
+	  <option>
+        <text>Both a, b</text>
+		<score>10</score>
+      </option>
+	  <option>
+        <text>None of these</text>
+      </option>
+      ...
+    </question>
+	
+	<question>
+      <text>Data are taken as ________ level of abstraction?</text>
+      <option>
+        <text>Lowest</text>	
+		<score>10</score>	
+      </option>
+	  <option>
+        <text>Middle</text>		
+      </option>
+	  <option>
+        <text>highest</text>		
+      </option>
+	  <option>
+        <text>None of these</text>
+      </option>
+      ...
+    </question>
+    ...
+  </quiz>
+  ...  
+</quizzes>

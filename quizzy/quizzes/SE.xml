@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quizzes>
+  <quiz>
+    <title>SE (6th Sem)</title>
+    
+    <grading>
+      <range start="0" end="60">
+        <grade>F</grade>
+        <rank>Rank</rank>
+        
+      </range>
+      ...
+    </grading>
+    <question>
+      <text>Identify, from among the following, the correct statement.</text>
+      <option>
+        <text>One of the main challenges Software Engineering facing today is the requirement of most software systems to work with a multitude of homogenous systems</text>
+      </option>
+	  <option>
+        <text>‘Legacy systems’ are custom developed software systems for the legal domain</text>		
+      </option>
+	  <option>
+        <text>Since software is essentially ‘intangible’ it is relatively easy to manage software projects</text>
+      </option>
+	  <option>
+        <text>Software does not wear-out in the traditional sense of the term, but software does tend to deteriorate as it evolves</text>		
+		<score>10</score>
+      </option>
+      ...
+    </question>
+	
+	    <question>
+      <text>Software Engineering:</text>
+      <option>
+        <text>Is a set of rules about developing software products</text>		
+      </option>
+	  <option>
+        <text>Is an engineering discipline concerned with all the aspects of software production</text>		
+		<score>10</score>
+      </option>
+	  <option>
+        <text>Has been around as a discipline since the early 50’s</text>
+      </option>
+	  <option>
+        <text>Is now a mature discipline on par with other established engineering fields</text>
+      </option>
+      ...
+    </question>
+	
+	<question>
+      <text>The individual or organisation who wants a product to be developed is known as the:</text>
+      <option>
+        <text>Developer</text>		
+      </option>
+	  <option>
+        <text>Client</text>		
+		<score>10</score>
+      </option>
+	  <option>
+        <text>User</text>
+      </option>
+	  <option>
+        <text>Contractor</text>
+      </option>
+      ...
+    </question>
+	
+	<question>
+      <text>The final form of testing COTS software is _________ testing.</text>
+      <option>
+        <text>Acceptance</text>		
+      </option>
+	  <option>
+        <text>Alpha</text>		
+      </option>
+	  <option>
+        <text>Beta</text>
+		<score>10</score>
+      </option>
+	  <option>
+        <text>Evolutionary</text>
+      </option>
+      ...
+    </question>
+	
+	<question>
+      <text>In the maintenance phase the product must be tested against previous test cases. This is known as __________ testing.</text>
+      <option>
+        <text>Regression</text>	
+		<score>10</score>	
+      </option>
+	  <option>
+        <text>Unit</text>		
+      </option>
+	  <option>
+        <text>Integration</text>		
+      </option>
+	  <option>
+        <text>Module</text>
+      </option>
+      ...
+    </question>
+    ...
+  </quiz>
+  ...  
+</quizzes>

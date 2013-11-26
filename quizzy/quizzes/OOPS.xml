@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quizzes>
+  <quiz>
+    <title>OOPS(3rd Sem)</title>
+    
+    <grading>
+      <range start="0" end="60">
+        <grade>F</grade>
+        <rank>Rank</rank>
+        
+      </range>
+      ...
+    </grading>
+    <question>
+      <text>Which of the following type of class allows only one object of it to be created?</text>
+      <option>
+        <text>Singleton class</text>
+		<score>10</score>
+      </option>
+	  <option>
+        <text>Virtual Claas</text>		
+      </option>
+	  <option>
+        <text>Friend Class</text>
+      </option>
+	  <option>
+        <text>Abstract Class</text>
+      </option>
+      ...
+    </question>
+	
+	    <question>
+      <text>Which of the following is not a type of constructor?</text>
+      <option>
+        <text>Copy Constructor</text>		
+      </option>
+	  <option>
+        <text>Friend Constructor</text>		
+		<score>10</score>
+      </option>
+	  <option>
+        <text>Default Constructor</text>
+      </option>
+	  <option>
+        <text>Parameterized Constructor</text>
+      </option>
+      ...
+    </question>
+	
+	<question>
+      <text>Which of the following statements is correct?</text>
+      <option>
+        <text>Base class pointer cannot point to derived class.</text>		
+      </option>
+	  <option>
+        <text>Derived class pointer cannot point to base class.</text>		
+		<score>10</score>
+      </option>
+	  <option>
+        <text>Pointer to derived class cannot be created.</text>
+      </option>
+	  <option>
+        <text>Pointer to base class cannot be created.</text>
+      </option>
+      ...
+    </question>
+	
+	<question>
+      <text>Which of the following is not the member of class?</text>
+      <option>
+        <text>Static function</text>		
+      </option>
+	  <option>
+        <text>Const Function</text>		
+      </option>
+	  <option>
+        <text>Friend function</text>
+		<score>10</score>
+      </option>
+	  <option>
+        <text>Virtual Function</text>
+      </option>
+      ...
+    </question>
+	
+	<question>
+      <text>Which of the following concepts means determining at runtime what method to invoke?</text>
+      <option>
+        <text>Dynamic Binding</text>	
+		<score>10</score>	
+      </option>
+	  <option>
+        <text>Data hiding</text>		
+      </option>
+	  <option>
+        <text>Dynamic Typing</text>		
+      </option>
+	  <option>
+        <text>Dynamic Loading</text>
+      </option>
+      ...
+    </question>
+    ...
+  </quiz>
+  ...  
+</quizzes>
