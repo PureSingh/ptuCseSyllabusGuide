@@ -69,7 +69,7 @@
 							
 						</article>
 						<article class="4u special">
-							<a href="#" class="image featured"><img src="images/notes.png" alt="" /></a>
+							<a href="3rd-ca-notes.php" class="image featured"><img src="images/notes.png" alt="" /></a>
 							
 							
 						</article>

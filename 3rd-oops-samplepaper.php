@@ -29,7 +29,7 @@
 				<!-- Inner -->
 					<div class="inner">
 						<header>
-							<h1><a href="index.php" id="logo">..</a> &raquo; <a href="3rd-index.php">3rd Sem</a> &raquo; <a href="3rd-wotc.php">WOTC</a> &raquo; <a href="3rd-wotc-samplepaper.php">Sample Papers</a></h1>
+							<h1><a href="index.php" id="logo">..</a> &raquo; <a href="3rd-index.php">3rd Sem</a> &raquo; <a href="3rd-wotc.php">WOTC</a> &raquo; <a href="3rd-oops-samplepaper.php">Sample Papers</a></h1>
 						</header>
 					</div>
 				
